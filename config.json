@@ -1,0 +1,20 @@
+{
+  "picBed": {
+    "uploader": "githubPlus",
+    "current": "githubPlus",
+    "githubPlus": {
+      "branch": "main",
+      "customUrl": "https://cdn.jsdelivr.net/gh/Yun-K/pic-bed@latest",
+      "origin": "github",
+      "repo": "Yun-K/pic-bed",
+      "path": "images",
+      "token": "" // token for accessing github 
+    }
+  },
+  "picgoPlugins": {
+    "picgo-plugin-github-plus": true
+  },
+  "picgo-plugin-github-plus": {
+    "lastSync": "2021-10-04 04:55:49"
+  }
+}
